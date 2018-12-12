@@ -1,0 +1,11 @@
+C:\Users\Administrator\Desktop\bogus c#\bogus-console\obj\Debug\netcoreapp2.1\bogus-console.csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\bogus c#\bogus-console\obj\Debug\netcoreapp2.1\bogus-console.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\bogus c#\bogus-console\obj\Debug\netcoreapp2.1\bogus-console.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\bogus c#\bogus-console\obj\Debug\netcoreapp2.1\bogus-console.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\bogus c#\bogus-console\bin\Debug\netcoreapp2.1\bogus-console.deps.json
+C:\Users\Administrator\Desktop\bogus c#\bogus-console\bin\Debug\netcoreapp2.1\bogus-console.runtimeconfig.json
+C:\Users\Administrator\Desktop\bogus c#\bogus-console\bin\Debug\netcoreapp2.1\bogus-console.runtimeconfig.dev.json
+C:\Users\Administrator\Desktop\bogus c#\bogus-console\bin\Debug\netcoreapp2.1\bogus-console.dll
+C:\Users\Administrator\Desktop\bogus c#\bogus-console\bin\Debug\netcoreapp2.1\bogus-console.pdb
+C:\Users\Administrator\Desktop\bogus c#\bogus-console\obj\Debug\netcoreapp2.1\bogus-console.dll
+C:\Users\Administrator\Desktop\bogus c#\bogus-console\obj\Debug\netcoreapp2.1\bogus-console.pdb
